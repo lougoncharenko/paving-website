@@ -3229,6 +3229,8 @@ input, select, textarea {
 
 		}
 
+
+
 /* Menu */
 
 	#page-wrapper {
@@ -4164,8 +4166,8 @@ input, select, textarea {
 		#header1 {
 			position: relative;
 			margin: 0;
-			background-image: url("images/overlay.png"), url("../../images/header.jpg");
-			background-size: auto, cover;
+			background: url("https://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg");
+			background-size:  cover;
 			background-position: top left, center center;
 			background-repeat: repeat, no-repeat;
 			padding: 14em 0 14em 0;
@@ -4192,7 +4194,8 @@ input, select, textarea {
 
 	.homepage {
 		position: relative;
-		margin: 0;
+		
+		
 	}
 
 		.homepage> header {
@@ -4423,8 +4426,8 @@ input, select, textarea {
 	}
 
 
-
-				  
+	
+	  
 
 
 
